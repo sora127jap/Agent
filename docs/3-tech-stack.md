@@ -4,16 +4,14 @@
 
 ## Defined Tech Stack
 
-* `HTML`: Used to create the basic structure of the application.
+* `Figma`: Used to design the app screens and user interface.
 
-* `CSS`: Used to design the layout and appearance of the application.
+* `Glide`: Used to create a simple app without writing code.
 
-* `JavaScript`: Used to make the application interactive, such as job searches and application forms.
-
-* `Firebase`: Used to store actor profiles, job information, and applications.
+* `Google Sheets`: Used to manage sample actor profiles, job information, and applications.
 
 ## Hosting & Deployment Strategy
 
-The application will be hosted using GitHub Pages. This allows users to access the application through a web browser.
+The application will be created using Glide, a no-code app development platform. It will be hosted online so actors and casting directors can access it through a web browser or mobile device.
 
-Firebase will be used to store and manage application data. This setup is simple and suitable for the first version of agent.
+This approach allows us to develop the first version of agent without advanced programming skills.
