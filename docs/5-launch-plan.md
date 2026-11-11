@@ -20,10 +20,10 @@
 
 ## Launch Day Operations
 
-- [ ] Publish the application using GitHub Pages.
+- [ ] Publish the application using Glide.
 
-- [ ] Check that the live website works correctly.
-
+- [ ] Check that the live application works correctly.
+      
 - [ ] Test the main features again.
 
 - [ ] Share the application on Instagram and other acting communities.
