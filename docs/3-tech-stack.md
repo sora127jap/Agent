@@ -8,7 +8,7 @@
 
 * `Glide`: Used to create a simple app without writing code.
 
-* `Google Sheets`: Used to manage sample actor profiles, job information, and applications.
+* `Google spreadsheet`: Used to manage sample actor profiles, job information, and applications.
 
 ## Hosting & Deployment Strategy
 
